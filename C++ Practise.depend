@@ -1,4 +1,6 @@
 # depslib dependency file v1.0
-1587550708 source:c:\users\jpg 4507 w\desktop\c++_practise\c++ practise\main.cpp
+1588153421 source:c:\users\jpg 4507 w\desktop\c++_practise\c++ practise\main.cpp
 	<iostream>
+	<cmath>
+	<string>
 
